@@ -1,0 +1,15 @@
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\Text Filter.exe.config
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\Text Filter.exe
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\Text Filter.pdb
+C:\Users\shrik\source\repos\Text Filter\obj\Debug\Text Filter.csproj.AssemblyReference.cache
+C:\Users\shrik\source\repos\Text Filter\obj\Debug\Text_Filter.Form1.resources
+C:\Users\shrik\source\repos\Text Filter\obj\Debug\Text_Filter.Properties.Resources.resources
+C:\Users\shrik\source\repos\Text Filter\obj\Debug\Text Filter.csproj.GenerateResource.cache
+C:\Users\shrik\source\repos\Text Filter\obj\Debug\Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\shrik\source\repos\Text Filter\obj\Debug\Text Filter.exe
+C:\Users\shrik\source\repos\Text Filter\obj\Debug\Text Filter.pdb
+C:\Users\shrik\source\repos\Text Filter\obj\Debug\Text_Filter.EditTextForm.resources
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\Text Filter.exe.manifest
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\Text Filter.application
+C:\Users\shrik\source\repos\Text Filter\obj\Debug\Text Filter.exe.manifest
+C:\Users\shrik\source\repos\Text Filter\obj\Debug\Text Filter.application
