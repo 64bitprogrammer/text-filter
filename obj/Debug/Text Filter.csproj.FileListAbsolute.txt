@@ -13,3 +13,24 @@ C:\Users\shrik\source\repos\Text Filter\bin\Debug\Text Filter.exe.manifest
 C:\Users\shrik\source\repos\Text Filter\bin\Debug\Text Filter.application
 C:\Users\shrik\source\repos\Text Filter\obj\Debug\Text Filter.exe.manifest
 C:\Users\shrik\source\repos\Text Filter\obj\Debug\Text Filter.application
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.Buffers.dll
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.IO.Pipelines.dll
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.Memory.dll
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.Text.Json.dll
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.ValueTuple.dll
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.Buffers.xml
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.IO.Pipelines.xml
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.Memory.xml
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.Text.Json.xml
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\shrik\source\repos\Text Filter\bin\Debug\System.ValueTuple.xml
+C:\Users\shrik\source\repos\Text Filter\obj\Debug\Text Fil.C6C26BE4.Up2Date
